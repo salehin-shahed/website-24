@@ -1,0 +1,146 @@
+@media (max-width: 1024px) {
+    .slider-caption .btn {
+        padding: 16px 50px;
+    }
+}
+
+@media (max-width: 768px) {
+    .slider-caption h4 {
+        font-size: 19px;
+    }
+
+    .slider-caption h2 {
+        font-size: 35px;
+    }
+
+    .slider-section .form-control {
+        margin-bottom: 8%;
+    }
+
+    .text-muted {
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 50px;
+    }
+
+    .about-text-left {
+        margin: 60px 0;
+    }
+
+    .min-section-bg .pricing-table-title {
+        font-size: 55px;
+    }
+
+    .min-section-bg .pricing-table-subtitle {
+        font-size: 23px;
+    }
+
+    .w-class {
+        margin-bottom: 4%;
+    }
+}
+
+@media (max-width: 425px) {
+
+    .min-section-bg .pricing-table-title {
+        font-size: 45px;
+    }
+
+    .min-section-bg .pricing-table-subtitle {
+        font-size: 17px;
+    }
+
+    .testmonial-seciton .para {
+        padding: 0;
+    }
+
+    .about-title {
+        font-size: 33px;
+    }
+
+    .contact-title {
+        font-size: 35px;
+    }
+
+    .w-class {
+        margin-bottom: 6%;
+    }
+}
+
+@media (max-width: 375px) {
+    .slider-caption .btn {
+        padding: 10px 40px;
+    }
+
+    .slider-section .form-control {
+        margin-bottom: 15%;
+        width: 140%;
+        margin-left: -20%;
+    }
+
+    button.navbar-toggler {
+        margin-left: 80%;
+    }
+
+    .pricing-item ul li {
+        font-size: 15px;
+    }
+
+    .testmonial-seciton h1 {
+        font-size: 24px;
+    }
+
+    .about-title h2 {
+        font-size: 27px;
+    }
+
+    .about-text-left .lead {
+        font-size: 15px;
+    }
+
+    .portfolio-caption h1 {
+        font-size: 30px;
+    }
+
+    .min-section-bg .pricing-table-title {
+        font-size: 25px;
+    }
+
+    .pricing-item h1 {
+        font-size: 35px;
+    }
+}
+
+@media (max-width: 320px) {
+    .slider-caption h4 {
+        font-size: 17px;
+    }
+
+    .slider-caption h2 {
+        font-size: 35px;
+    }
+
+    .slider-caption .btn {
+        padding: 10px 30px;
+    }
+
+    .about-title p {
+        font-size: 21px;
+    }
+
+    .pricing-item ul li {
+        font-size: 13px;
+    }
+
+    .pricing-item-button a {
+        padding: 15px 0;
+    }
+
+    .w-class {
+        width: 130%;
+        margin-left: -15%;
+    }
+
+    .contact-button {
+        padding: 10px 20px;
+    }
+}
